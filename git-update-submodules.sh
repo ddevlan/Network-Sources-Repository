@@ -34,3 +34,5 @@ done
 
 git commit -m "Updated $BRANCH branch of deployment repo to point to latest head of submodules"
 git push origin $BRANCH
+
+git submodule update --recursive --remote --merge --force
