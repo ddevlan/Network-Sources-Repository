@@ -1,0 +1,15 @@
+[submodule "mSpigot"]
+	path = mSpigot
+	url = https://github.com/developerdylan/mSpigot.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/developerdylan/Gateway.git
+[submodule "Library"]
+	path = Library
+	url = https://github.com/developerdylan/Library.git
+[submodule "Mecca"]
+	path = Mecca
+	url = https://github.com/developerdylan/Mecca.git
+[submodule "qModSuite"]
+	path = qModSuite
+	url = https://github.com/developerdylan/qModSuite.git
