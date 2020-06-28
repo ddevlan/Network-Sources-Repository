@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ddylan</groupId>
-    <artifactId>tbd</artifactId>
+    <artifactId>nrs</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>tbd</name>
-    <description>tbd Network</description>
+    <name>Network-Sources-Repository</name>
+    <description>Parent project for a to be determined Minecraft Network.</description>
 
     <properties>
         <source>1.8</source>
@@ -64,5 +64,9 @@
             <url>https://maven.moonsworth.com/repository/lunarclient-public</url>
         </repository>
     </repositories>
+
+    <build>
+        <defaultGoal>clean package install</defaultGoal>
+    </build>
 
 </project>
