@@ -65,8 +65,4 @@
         </repository>
     </repositories>
 
-    <build>
-        <defaultGoal>clean package install</defaultGoal>
-    </build>
-
 </project>
