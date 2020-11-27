@@ -28,6 +28,10 @@
 
     <repositories>
         <repository>
+            <id>minecraft</id>
+            <url>https://maven.elmakers.com/repository/</url>
+        </repository>
+        <repository>
             <id>sk89q</id>
             <url>https://maven.sk89q.com/artifactory/repo/</url>
         </repository>
@@ -38,10 +42,6 @@
         <repository>
             <id>md_5-releases</id>
             <url>http://repo.md-5.net/content/repositories/releases/</url>
-        </repository>
-        <repository>
-            <id>bungeecord-releases</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </repository>
         <repository>
             <id>commons</id>
@@ -61,7 +61,15 @@
         </repository>
         <repository>
             <id>lunar</id>
-            <url>https://maven.moonsworth.com/repository/lunarclient-public</url>
+            <url>https://maven.moonsworth.com/repository/</url>
+        </repository>
+        <repository>
+            <id>slf4j</id>
+            <url>https://mvnrepository.com/artifact/org.slf4j/slf4j-simple</url>
+        </repository>
+        <repository>
+            <id>reflections</id>
+            <url>https://mvnrepository.com/artifact/org.reflections/reflections</url>
         </repository>
     </repositories>
 
