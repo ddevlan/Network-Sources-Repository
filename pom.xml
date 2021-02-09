@@ -24,6 +24,8 @@
         <module>Gateway</module>
         <module>qModSuite</module>
         <module>Mecca</module>
+        <module>Hydrogen</module>
+        <module>Hydrogen-API</module>
     </modules>
 
     <repositories>
@@ -38,6 +40,10 @@
         <repository>
             <id>nio-java</id>
             <url>https://clojars.org/repo/</url>
+        </repository>
+        <repository>
+            <id>okhttp</id>
+            <url>https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp</url>
         </repository>
         <repository>
             <id>md_5-releases</id>
@@ -70,6 +76,10 @@
         <repository>
             <id>reflections</id>
             <url>https://mvnrepository.com/artifact/org.reflections/reflections</url>
+        </repository>
+        <repository>
+            <id>netty</id>
+            <url>https://mvnrepository.com/artifact/io.netty/netty-all</url>
         </repository>
     </repositories>
 

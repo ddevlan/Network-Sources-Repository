@@ -1,0 +1,5 @@
+name: Hydrogen
+version: ${git.commit.id.abbrev}
+author: val
+main: com.ddylan.hydrogen.Hydrogen
+depend: [ Library ]
