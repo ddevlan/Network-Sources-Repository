@@ -14,8 +14,8 @@
 	path = qModSuite
 	url = https://github.com/developerdylan/qModSuite.git
 [submodule "Hydrogen"]
-    path = Hydrogen
-    url = https://github.com/developerdylan/Hydrogen.git
+	path = Hydrogen
+	url = https://github.com/developerdylan/Hydrogen
 [submodule "Hydrogen-API"]
-    path = Hydrogen-API
-    url = https://github.com/developerdylan/Hydrogen-API.git
+	path = Hydrogen-API
+	url = https://github.com/developerdylan/Hydrogen-API

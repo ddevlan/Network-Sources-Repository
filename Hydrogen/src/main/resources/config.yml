@@ -1,7 +1,0 @@
-text:
-  network-name: MineHQ
-  network-website: minehq.com
-APIHost: https://localhost:8080
-APIKey: MineHQ
-2FARequired: true
-AllowBannedJoins: false
